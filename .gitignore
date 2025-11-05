@@ -1,0 +1,3 @@
+.terraform/
+*/terraform-provider-azurerm_v3*.x5
+*/terraform-provider-azurerm_v4*.x5
