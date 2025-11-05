@@ -1,0 +1,10 @@
+location            = "East US"
+resource_group      = "reactAppInfra"
+acr_name            = "deepaacr"
+app_service_fqdn    = "reactapp.azurewebsites.net"
+app_name            = "reactapp"
+plan_name           = "reactAppServicePlan"
+image_name          = "my-react-app"
+image_tag           = "latest"
+subnet_id   = "/subscriptions/65c37065-d316-4ed3-a720-cc0c3872ac3a/resourceGroups/reactAppInfra/providers/Microsoft.Network/virtualNetworks/reactVNet/subnets/appGatewaySubnet"
+

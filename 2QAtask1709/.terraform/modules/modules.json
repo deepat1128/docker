@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"acr","Source":"./modules/acr","Dir":"modules/acr"},{"Key":"app_gateway","Source":"./modules/agw","Dir":"modules/agw"},{"Key":"app_service","Source":"./modules/appservice","Dir":"modules/appservice"},{"Key":"monitoring","Source":"./modules/monitoring","Dir":"modules/monitoring"}]}
